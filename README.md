@@ -4,8 +4,8 @@
 Highly analytical and research-oriented AI Engineer with a strong background in analytical methods, data visualization, and machine learning.
 
 ## Education 🎓
-Master's in Artificial Intelligence from University of North Texas(UNT),Denton (https://www.unt.edu/)
-Electonics and communication Engineer from Vaagdevi College of Engineering(VCE),Warangal (https://www.vaagdevi.edu.in/)
+- Master's in Artificial Intelligence from University of North Texas(UNT),Denton (https://www.unt.edu/)
+- Electonics and communication Engineer from Vaagdevi College of Engineering(VCE),Warangal (https://www.vaagdevi.edu.in/)
 
 ## What I Bring to the Table 💪
 - **Skills:** Python, SQL, Data Visualization (Tableau, PowerBI), Data Analytics, Machine Learning, Deep Learning, Natural Language Processing
