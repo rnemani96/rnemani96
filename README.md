@@ -91,7 +91,7 @@ I’m particularly interested in building **production-oriented AI systems that 
 
 - [LinkedIn](https://linkedin.com/in/rajesh-nemani)
 - Email: **rajeshnemani47@gmail.com**
-- [Website]((https://portfolio-blush-rho-63.vercel.app/))
+- [Website](https://portfolio-blush-rho-63.vercel.app/)
 
 If you're working on **AI, NLP, Generative AI, RAG, or intelligent applications**, I'd be happy to connect and exchange ideas.
 
